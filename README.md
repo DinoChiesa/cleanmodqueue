@@ -12,6 +12,6 @@ When a moderator uses this tool, it helps keep the modqueue clean. The moderator
 
 ![CleanModQueue-Settings.png](./images/CleanModQueue-Settings.png)
 
-![CleanModQueue - Audit Log.png](./images/CleanModQueue - Audit Log.png)
+![CleanModQueue - Audit Log.png](./images/CleanModQueue-AuditLog.png)
 
 [More Info](./Usage.md)
